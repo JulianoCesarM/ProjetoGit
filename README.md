@@ -1,2 +1,4 @@
 # ProjetoGit
- Primeiro passos com o Git e Github
+ Primeiros passos com o Git e Github
+
+Repositório criado.
